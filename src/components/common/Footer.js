@@ -72,7 +72,7 @@ const Footer = () => {
                     <div className="sub_footer_wrapper">
                         <div className="foot_copyright">
                             <p>
-                                {currYear} | XBeat. All Rights Reserved.
+                                {currYear} | The Ocean. All Rights Reserved.
                                 Built by | <a href="https://preeminent-manatee-bd2fbb.netlify.app/">Abhishek Sharma</a>
                             </p>
                         </div>
